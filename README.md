@@ -2,7 +2,7 @@
 
 A professional Python application that extracts content from websites and generates summaries using either OpenAI API or Ollama (local LLM). Features both a web interface and command-line usage.
 
-![AI Website Summarizer Screenshot](ai_website_summarizer.png)
+![AI Website Summarizer Screenshot](Screenshots/ai_website_summarizer.png)
 
 ## Features
 
